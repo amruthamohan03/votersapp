@@ -1,0 +1,67 @@
+<!-- Sidenav Menu Start -->
+<div class="sidenav-menu">
+
+    <a href="index.php" class="logo" style="padding-top:40px;">
+        <span class="logo-light">
+            <h3><i class="ri-stack-line"></i>VoteHub</h3>
+        </span>
+
+        <span class="logo-dark">
+            <h3><i class="ri-stack-line"></i>VoteHub</h3>
+        </span>
+    </a>
+    <button class="button-sm-hover">
+        <i class="ri-circle-line align-middle"></i>
+    </button>
+
+    <!-- Sidebar Menu Toggle Button -->
+    <button class="sidenav-toggle-button">
+        <i class="ri-menu-5-line fs-20"></i>
+    </button>
+
+    <!-- Full Sidebar Menu Close Button -->
+    <button class="button-close-fullsidebar">
+        <i class="ti ti-x align-middle"></i>
+    </button>
+
+    <div data-simplebar>
+
+        <!--- Sidenav Menu -->
+        <?php $menuItems = $this->getMenu();?>
+        <ul class="side-nav">
+            <?php foreach ($menuItems as $item): ?>
+                <li class="side-nav-item">
+                    <?php if (!empty($item->submenu)): ?>
+                        <a data-bs-toggle="collapse" href="#submenu<?= $item->id; ?>" aria-expanded="false"
+                        aria-controls="submenu<?= $item->id; ?>" class="side-nav-link">
+                            <span class="menu-icon"><i class="<?= $item->icon; ?>"></i></span>
+                            <span class="menu-text"><?= $item->menu_name; ?></span>
+                            <span class="menu-arrow"></span>
+                        </a>
+                        <div class="collapse" id="submenu<?= $item->id; ?>">
+                            <ul class="sub-menu">
+                                <?php foreach ($item->submenu as $sub): ?>
+                                    <li class="side-nav-item">
+                                        <a href="<?= APP_URL.$sub->url; ?>" class="side-nav-link">
+                                            <span class="menu-text"><?= $sub->menu_name; ?></span>
+                                        </a>
+                                    </li>
+                                <?php endforeach; ?>
+                            </ul>
+                        </div>
+                    <?php else: ?>
+                        <a href="<?= APP_URL.$item->url; ?>" class="side-nav-link">
+                            <span class="menu-icon"><i class="<?= $item->icon; ?>"></i></span>
+                            <span class="menu-text"><?= $item->menu_name; ?></span>
+                            <?php if (!empty($item->badge)): ?>
+                                <span class="badge bg-danger rounded-pill"><?= $item->badge; ?></span>
+                            <?php endif; ?>
+                        </a>
+                    <?php endif; ?>
+                </li>
+            <?php endforeach; ?>
+        </ul>   
+        <div class="clearfix"></div>
+    </div>
+</div>
+<!-- Sidenav Menu End -->

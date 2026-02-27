@@ -1,0 +1,618 @@
+[10-Feb-2026 08:41:10 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[10-Feb-2026 08:41:15 Africa/Lubumbashi] User logged out: supadmin
+[10-Feb-2026 08:43:09 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 56
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 45
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   4. s($v = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:56
+[10-Feb-2026 10:53:48 Africa/Lubumbashi] PHP   5. trim($string = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:45
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 56
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 45
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   4. s($v = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:56
+[10-Feb-2026 10:53:49 Africa/Lubumbashi] PHP   5. trim($string = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:45
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 56
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 45
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   4. s($v = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:56
+[10-Feb-2026 10:53:57 Africa/Lubumbashi] PHP   5. trim($string = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:45
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 56
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 45
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   4. s($v = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:56
+[10-Feb-2026 10:57:11 Africa/Lubumbashi] PHP   5. trim($string = NULL) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:45
+[10-Feb-2026 10:57:49 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 71
+[10-Feb-2026 10:57:49 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:57:49 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:57:49 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:57:49 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'insertion') C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\views\masters\item.php on line 107
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   3. ItemController->index() C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   4. Controller->viewWithLayout($view = 'masters/item', $data = ['title' => 'Item Master', 'result' => [0 => [...]], 'categories' => [0 => [...], 1 => [...]], 'transactionEnum' => ['I' => 'Import', 'E' => 'Export', 'U' => 'Under Value', 'IE' => 'Import, Export', 'IU' => 'Import, Under Value', 'EU' => 'Export, Under Value', 'IEU' => 'Import, Export, Under Value']], $layout = *uninitialized*) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:37
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   5. require_once() C:\wamp64\www\stock\app\core\Controller.php:77
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\views\masters\item.php on line 110
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   3. ItemController->index() C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   4. Controller->viewWithLayout($view = 'masters/item', $data = ['title' => 'Item Master', 'result' => [0 => [...]], 'categories' => [0 => [...], 1 => [...]], 'transactionEnum' => ['I' => 'Import', 'E' => 'Export', 'U' => 'Under Value', 'IE' => 'Import, Export', 'IU' => 'Import, Under Value', 'EU' => 'Export, Under Value', 'IEU' => 'Import, Export, Under Value']], $layout = *uninitialized*) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:37
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   5. require_once() C:\wamp64\www\stock\app\core\Controller.php:77
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\views\masters\item.php on line 113
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   3. ItemController->index() C:\wamp64\www\stock\app\core\App.php:131
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   4. Controller->viewWithLayout($view = 'masters/item', $data = ['title' => 'Item Master', 'result' => [0 => [...]], 'categories' => [0 => [...], 1 => [...]], 'transactionEnum' => ['I' => 'Import', 'E' => 'Export', 'U' => 'Under Value', 'IE' => 'Import, Export', 'IU' => 'Import, Under Value', 'EU' => 'Export, Under Value', 'IEU' => 'Import, Export, Under Value']], $layout = *uninitialized*) C:\wamp64\www\stock\app\controllers\masters\ItemController.php:37
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   5. require_once() C:\wamp64\www\stock\app\core\Controller.php:77
+[10-Feb-2026 10:58:16 Africa/Lubumbashi] PHP   6. htmlspecialchars($string = NULL) C:\wamp64\www\stock\app\views\masters\item.php:113
+[10-Feb-2026 12:07:33 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/stock/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\stock\app\core\App.php on line 120
+[10-Feb-2026 12:07:33 Africa/Lubumbashi] PHP Stack trace:
+[10-Feb-2026 12:07:33 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[10-Feb-2026 12:07:33 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[10-Feb-2026 12:07:33 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/stock/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\stock\app\core\App.php:120
+Stack trace:
+#0 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\stock\app\core\App.php on line 120
+[18-Feb-2026 08:11:44 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list'
+[18-Feb-2026 08:11:44 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT sp.*, u....')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(14): Database->customQuery('SELECT sp.*, u....')
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 08:12:43 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.user_name' in 'field list'
+[18-Feb-2026 08:12:43 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.user_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT sp.*, u....')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(14): Database->customQuery('SELECT sp.*, u....')
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 08:12:44 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.user_name' in 'field list'
+[18-Feb-2026 08:12:44 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.user_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT sp.*, u....')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(14): Database->customQuery('SELECT sp.*, u....')
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 08:49:54 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id FROM ...')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(69): Database->selectData('service_provide...', 'id', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->crudData('insertion')
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 08:49:56 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id FROM ...')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(69): Database->selectData('service_provide...', 'id', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->crudData('insertion')
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 08:49:58 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id FROM ...')
+#1 C:\wamp64\www\stock\app\controllers\masters\ProviderController.php(69): Database->selectData('service_provide...', 'id', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): ProviderController->crudData('insertion')
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:34:20 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, prov...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(16): Database->selectData('service_provide...', 'id, provider_na...', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:34:21 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, prov...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(16): Database->selectData('service_provide...', 'id, provider_na...', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:34:57 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provider_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, prov...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(16): Database->selectData('service_provide...', 'id, provider_na...', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:34:57 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provider_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, prov...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(16): Database->selectData('service_provide...', 'id, provider_na...', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:34:58 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provider_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, prov...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(16): Database->selectData('service_provide...', 'id, provider_na...', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:35:31 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist
+[18-Feb-2026 09:35:31 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist
+[18-Feb-2026 09:35:32 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.service_provider_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:36:26 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sp.provider_name' in 'field list'
+[18-Feb-2026 09:36:26 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sp.provider_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:37:12 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause'
+[18-Feb-2026 09:37:12 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:37:12 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause'
+[18-Feb-2026 09:37:12 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:37:13 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause'
+[18-Feb-2026 09:37:13 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dm.service_provider_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT dm.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(28): Database->customQuery('SELECT dm.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:41:37 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT * FROM d...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(216): Database->selectData('daybook_master_...', '*', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->getDayBookById()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 09:42:00 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'di.item_id' in 'on clause'
+[18-Feb-2026 09:42:00 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'di.item_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT di.*,\r\n ...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(297): Database->customQuery('SELECT di.*,\r\n ...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->viewDayBook('1')
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 09:47:38 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.quotation_categories_t' doesn't exist
+[18-Feb-2026 09:47:38 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.quotation_categories_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('SELECT im.*, qc...')
+#1 C:\wamp64\www\stock\app\controllers\masters\ItemController.php(14): Database->customQuery('SELECT im.*, qc...')
+#2 C:\wamp64\www\stock\app\core\App.php(136): ItemController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP Warning:  Undefined array key "name" in C:\wamp64\www\stock\app\views\masters\service_provider.php on line 92
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP Stack trace:
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   3. ProviderController->index() C:\wamp64\www\stock\app\core\App.php:136
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   4. Controller->viewWithLayout($view = 'masters/service_provider', $data = ['title' => 'Service Providers', 'result' => [0 => [...]]], $layout = *uninitialized*) C:\wamp64\www\stock\app\controllers\masters\ProviderController.php:21
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   5. require_once() C:\wamp64\www\stock\app\core\Controller.php:77
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\stock\app\views\masters\service_provider.php on line 92
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP Stack trace:
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   3. ProviderController->index() C:\wamp64\www\stock\app\core\App.php:136
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   4. Controller->viewWithLayout($view = 'masters/service_provider', $data = ['title' => 'Service Providers', 'result' => [0 => [...]]], $layout = *uninitialized*) C:\wamp64\www\stock\app\controllers\masters\ProviderController.php:21
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   5. require_once() C:\wamp64\www\stock\app\core\Controller.php:77
+[18-Feb-2026 10:18:12 Africa/Lubumbashi] PHP   6. htmlspecialchars($string = NULL) C:\wamp64\www\stock\app\views\masters\service_provider.php:92
+[18-Feb-2026 10:38:54 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT * FROM d...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(216): Database->selectData('daybook_master_...', '*', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->getDayBookById()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 12:02:43 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, user...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(17): Database->selectData('users_t', 'id, username', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[18-Feb-2026 12:02:44 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT id, user...')
+#1 C:\wamp64\www\stock\app\controllers\stock\DaybookController.php(17): Database->selectData('users_t', 'id, username', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(136): DaybookController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[19-Feb-2026 06:20:34 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[19-Feb-2026 10:19:35 Africa/Lubumbashi] User logged out: supadmin
+[19-Feb-2026 10:59:15 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[19-Feb-2026 11:27:36 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/report/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:27:36 Africa/Lubumbashi] PHP Stack trace:
+[19-Feb-2026 11:27:36 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[19-Feb-2026 11:27:36 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[19-Feb-2026 11:27:36 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/report/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\stock\app\core\App.php:60
+Stack trace:
+#0 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:46:04 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/report/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:46:04 Africa/Lubumbashi] PHP Stack trace:
+[19-Feb-2026 11:46:04 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[19-Feb-2026 11:46:04 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[19-Feb-2026 11:46:04 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/report/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\stock\app\core\App.php:60
+Stack trace:
+#0 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:48:01 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/report/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:48:01 Africa/Lubumbashi] PHP Stack trace:
+[19-Feb-2026 11:48:01 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[19-Feb-2026 11:48:01 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[19-Feb-2026 11:48:01 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/report/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\stock\app\core\App.php:60
+Stack trace:
+#0 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:49:04 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/report/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\stock\app\core\App.php on line 60
+[19-Feb-2026 11:49:04 Africa/Lubumbashi] PHP Stack trace:
+[19-Feb-2026 11:49:04 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[19-Feb-2026 11:49:04 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[19-Feb-2026 11:49:04 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/report/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\stock\app\core\App.php:60
+Stack trace:
+#0 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\stock\app\core\App.php on line 60
+[20-Feb-2026 16:02:06 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[20-Feb-2026 16:05:01 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Class "Dompdf\Dompdf" not found in C:\wamp64\www\stock\app\controllers\report\IndentbookController.php:197
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\App.php(73): IndentbookController->exportPdf()
+#1 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#2 {main}
+  thrown in C:\wamp64\www\stock\app\controllers\report\IndentbookController.php on line 197
+[20-Feb-2026 16:31:16 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Call to undefined method Database::escape() in C:\wamp64\www\stock\app\controllers\report\BookController.php:135
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\App.php(73): BookController->fetchStockBook()
+#1 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#2 {main}
+  thrown in C:\wamp64\www\stock\app\controllers\report\BookController.php on line 135
+[20-Feb-2026 16:31:17 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Call to undefined method Database::escape() in C:\wamp64\www\stock\app\controllers\report\BookController.php:135
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\App.php(73): BookController->fetchStockBook()
+#1 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#2 {main}
+  thrown in C:\wamp64\www\stock\app\controllers\report\BookController.php on line 135
+[20-Feb-2026 16:36:32 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Call to undefined method Database::escape() in C:\wamp64\www\stock\app\controllers\report\BookController.php:135
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\App.php(73): BookController->fetchStockBook()
+#1 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#2 {main}
+  thrown in C:\wamp64\www\stock\app\controllers\report\BookController.php on line 135
+[20-Feb-2026 16:36:43 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Call to undefined method Database::escape() in C:\wamp64\www\stock\app\controllers\report\BookController.php:135
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\App.php(73): BookController->fetchStockBook()
+#1 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#2 {main}
+  thrown in C:\wamp64\www\stock\app\controllers\report\BookController.php on line 135
+[20-Feb-2026 17:10:18 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'st.institution_id' in 'on clause'
+[20-Feb-2026 17:10:18 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'st.institution_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\report\BookController.php(539): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\controllers\report\BookController.php(299): BookController->_pdfStockBook()
+#3 C:\wamp64\www\stock\app\core\App.php(73): BookController->exportPdf('stock_book')
+#4 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#5 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 17:10:28 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sp.service_provider_name' in 'field list'
+[20-Feb-2026 17:10:28 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sp.service_provider_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\report\BookController.php(755): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\controllers\report\BookController.php(300): BookController->_pdfDayBook()
+#3 C:\wamp64\www\stock\app\core\App.php(73): BookController->exportPdf('day_book')
+#4 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#5 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 18:06:01 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'st.institution_id' in 'on clause'
+[20-Feb-2026 18:06:01 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'st.institution_id' in 'on clause' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\report\BookController.php(539): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\controllers\report\BookController.php(299): BookController->_pdfStockBook()
+#3 C:\wamp64\www\stock\app\core\App.php(73): BookController->exportPdf('stock_book')
+#4 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#5 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:01:42 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.main_office_master_t' doesn't exist
+[20-Feb-2026 19:01:42 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.main_office_master_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(33): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:02:31 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.collage_t' doesn't exist
+[20-Feb-2026 19:02:31 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.collage_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(33): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:03:00 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list'
+[20-Feb-2026 19:03:00 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(33): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:03:01 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list'
+[20-Feb-2026 19:03:01 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(33): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:03:01 Africa/Lubumbashi] Database customQuery error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list'
+[20-Feb-2026 19:03:01 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.main_location_name' in 'field list' in C:\wamp64\www\stock\app\core\Database.php:467
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(467): PDO->prepare('\r\n            S...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(33): Database->customQuery('\r\n            S...')
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 467
+[20-Feb-2026 19:04:45 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_db.main_office_master_t' doesn't exist in C:\wamp64\www\stock\app\core\Database.php:384
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(384): PDO->prepare('SELECT * FROM m...')
+#1 C:\wamp64\www\stock\app\controllers\masters\UserController.php(36): Database->selectData('main_office_mas...', '*', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(73): UserController->index()
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 384
+[20-Feb-2026 19:10:50 Africa/Lubumbashi] User logged out: supadmin
+[20-Feb-2026 19:11:05 Africa/Lubumbashi] User logged in: amrutha (ID: 746)
+[20-Feb-2026 19:11:50 Africa/Lubumbashi] User logged out: amrutha
+[20-Feb-2026 19:12:03 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[21-Feb-2026 03:39:29 Africa/Lubumbashi] User logged out: supadmin
+[21-Feb-2026 03:45:55 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[21-Feb-2026 03:50:58 Africa/Lubumbashi] User logged out: supadmin
+[21-Feb-2026 03:51:03 Africa/Lubumbashi] User logged in: amrutha (ID: 746)
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP Warning:  Undefined array key "userData" in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP Warning:  Trying to access array offset on null in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:16 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP Warning:  Undefined array key "userData" in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP Warning:  Trying to access array offset on null in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:18 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP Warning:  Undefined array key "userData" in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP Warning:  Trying to access array offset on null in C:\wamp64\www\stock\app\controllers\stock\IndentController.php on line 309
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP Stack trace:
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[21-Feb-2026 03:51:28 Africa/Lubumbashi] PHP   3. IndentController->issueIndent() C:\wamp64\www\stock\app\core\App.php:70
+[21-Feb-2026 04:53:09 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'department_id' cannot be null in C:\wamp64\www\stock\app\core\Database.php:424
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(424): PDOStatement->execute()
+#1 C:\wamp64\www\stock\app\controllers\stock\IndentController.php(119): Database->insertData('indent_master_t', Array)
+#2 C:\wamp64\www\stock\app\core\App.php(70): IndentController->crudData('insertion')
+#3 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#4 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 424
+[21-Feb-2026 05:20:49 Africa/Lubumbashi] User logged out: amrutha
+[21-Feb-2026 05:20:58 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[21-Feb-2026 18:51:43 Africa/Lubumbashi] User logged in: supadmin (ID: 1)
+[22-Feb-2026 04:51:34 Africa/Lubumbashi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'item_description' at row 1 in C:\wamp64\www\stock\app\core\Database.php:424
+Stack trace:
+#0 C:\wamp64\www\stock\app\core\Database.php(424): PDOStatement->execute()
+#1 C:\wamp64\www\stock\app\controllers\stock\IndentController.php(213): Database->insertData('indent_item_t', Array)
+#2 C:\wamp64\www\stock\app\controllers\stock\IndentController.php(122): IndentController->_upsertItems(Object(Database), 3, Array, 'insert')
+#3 C:\wamp64\www\stock\app\core\App.php(70): IndentController->crudData('insertion')
+#4 C:\wamp64\www\stock\public\index.php(57): App->__construct()
+#5 {main}
+  thrown in C:\wamp64\www\stock\app\core\Database.php on line 424
+[22-Feb-2026 09:29:02 Africa/Lubumbashi] SessionManager: login — supadmin (ID:1)
+[22-Feb-2026 11:58:02 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 112
+[22-Feb-2026 11:58:02 Africa/Lubumbashi] PHP Stack trace:
+[22-Feb-2026 11:58:02 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[22-Feb-2026 11:58:02 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[22-Feb-2026 11:58:02 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'updation') C:\wamp64\www\stock\app\core\App.php:70
+[22-Feb-2026 11:58:05 Africa/Lubumbashi] PHP Warning:  Undefined array key "item_type" in C:\wamp64\www\stock\app\controllers\masters\ItemController.php on line 112
+[22-Feb-2026 11:58:05 Africa/Lubumbashi] PHP Stack trace:
+[22-Feb-2026 11:58:05 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\stock\public\index.php:0
+[22-Feb-2026 11:58:05 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\stock\public\index.php:57
+[22-Feb-2026 11:58:05 Africa/Lubumbashi] PHP   3. ItemController->crudData($action = 'updation') C:\wamp64\www\stock\app\core\App.php:70
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   3. AuthController->login('voter') C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 10:59:54 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   3. AuthController->login('voter') C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:00:29 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:00:36 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:01:13 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:01:40 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:03:07 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:03:14 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\votersapp\app\core\Controller.php on line 136
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   3. AuthController->login() C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   4. AuthController->handleLogin() C:\wamp64\www\votersapp\app\controllers\AuthController.php:33
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   5. Controller->sanitize($data = NULL) C:\wamp64\www\votersapp\app\controllers\AuthController.php:51
+[27-Feb-2026 11:03:34 Africa/Lubumbashi] PHP   6. trim($string = NULL) C:\wamp64\www\votersapp\app\core\Controller.php:136
+[27-Feb-2026 11:03:44 Africa/Lubumbashi] SessionManager: login — supadmin (ID:1)
+[27-Feb-2026 11:10:44 Africa/Lubumbashi] SessionManager: logout — supadmin
+[27-Feb-2026 11:10:47 Africa/Lubumbashi] SessionManager: login — supadmin (ID:1)
+[27-Feb-2026 11:11:00 Africa/Lubumbashi] PHP Warning:  Trying to access array offset on null in C:\wamp64\www\votersapp\app\controllers\HomeController.php on line 21
+[27-Feb-2026 11:11:00 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:11:00 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:11:00 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:11:00 Africa/Lubumbashi] PHP   3. HomeController->index('dashboard') C:\wamp64\www\votersapp\app\core\App.php:71
+[27-Feb-2026 11:41:00 Africa/Lubumbashi] PHP Warning:  require_once(../app/controllers/entry/AuthController.php): Failed to open stream: No such file or directory in C:\wamp64\www\votersapp\app\core\App.php on line 50
+[27-Feb-2026 11:41:00 Africa/Lubumbashi] PHP Stack trace:
+[27-Feb-2026 11:41:00 Africa/Lubumbashi] PHP   1. {main}() C:\wamp64\www\votersapp\public\index.php:0
+[27-Feb-2026 11:41:00 Africa/Lubumbashi] PHP   2. App->__construct() C:\wamp64\www\votersapp\public\index.php:57
+[27-Feb-2026 11:41:00 Africa/Lubumbashi] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/entry/AuthController.php' (include_path='.;C:\php\pear') in C:\wamp64\www\votersapp\app\core\App.php:50
+Stack trace:
+#0 C:\wamp64\www\votersapp\public\index.php(57): App->__construct()
+#1 {main}
+  thrown in C:\wamp64\www\votersapp\app\core\App.php on line 50
