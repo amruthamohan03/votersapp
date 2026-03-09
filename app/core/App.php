@@ -29,6 +29,7 @@ class App {
             'roleDashboardCard'     => 'mapping/',
             'dashboardCard'         => 'masters/',
             'voter'                 => 'voters/',
+            'voting'                => 'voters/',
 
         ];
 
