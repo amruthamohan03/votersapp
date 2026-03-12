@@ -30,6 +30,7 @@ class App {
             'dashboardCard'         => 'masters/',
             'voter'                 => 'voters/',
             'voting'                => 'voters/',
+            'candidates'            => 'masters/',
 
         ];
 
