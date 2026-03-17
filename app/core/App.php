@@ -31,6 +31,7 @@ class App {
             'voter'                 => 'voters/',
             'voting'                => 'voters/',
             'candidates'            => 'masters/',
+            'results'               => 'voters/',
 
         ];
 
